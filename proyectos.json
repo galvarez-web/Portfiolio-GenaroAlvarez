@@ -6,7 +6,7 @@
             " C++",
             " HTML",
             " CSS",
-            " JavaScrypt"
+            " JavaScript"
         ]
     },
     {
@@ -17,6 +17,6 @@
     {
         "titulo": "Plantel dinamico",
         "descripcion": "Plantilla de jugadores conformado por un array de cartas de jugadores al estilo FIFA ",
-        "tecnologias": [" DOM"," JavaScrypt"]
+        "tecnologias": [" DOM"," JavaScript"]
     }
 ]
