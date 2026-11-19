@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Detector de gases C0 y CH4",
+        "descripcion": "Proyecto en base a ESP32 que utiliza sensores de la serie MQ para realizar el sensado de gases",
+        "tecnologias": [
+            " C++",
+            " HTML",
+            " CSS",
+            " JavaScrypt"
+        ]
+    },
+    {
+        "titulo": "Programa estilo Gremio de aventureros RPG",
+        "descripcion": "Programa integrador de Java orientado a objetos con el fin de recrear un menu de gestion de personaje al estilo RPG",
+        "tecnologias": ["Java"]
+    },
+    {
+        "titulo": "Plantel dinamico",
+        "descripcion": "Plantilla de jugadores conformado por un array de cartas de jugadores al estilo FIFA ",
+        "tecnologias": [" DOM"," JavaScrypt"]
+    }
+]
